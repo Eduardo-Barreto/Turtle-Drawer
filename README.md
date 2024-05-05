@@ -18,6 +18,10 @@ Desenvolvido como atividade ponderada no Inteli.
    cd <diretorio_do_repositorio>
    colcon build
    ```
+4. Rode o instalador
+   ```
+   source install/local_setup.bash
+   ```
 
 ## Execução
 
