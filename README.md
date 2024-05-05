@@ -5,6 +5,14 @@ Este é um pacote ROS que permite desenhar formas geométricas simples usando a 
 Desenvolvido como atividade ponderada no Inteli.
 
 ## Demonstração
+Essa é a demonstração de um quadrado, mas a forma pode ser facilmente alterada no código, mudando a sequência de instruções.
+
+Ele da `kill` na `turtle1` e `spawn` na `toruga`, que é quem realiza o desenho.
+Realiza o desenho com cada linha de uma cor aleatória
+Ao finalizar, da `kill` na `toruga`, deixando apenas o desenho na tela
+
+https://github.com/Eduardo-Barreto/Turtle-Drawer/assets/34964398/d4edde4d-0353-48d7-87d1-e2b85d49c068
+
 
 ## Instalação
 
